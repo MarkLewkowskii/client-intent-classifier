@@ -55,11 +55,8 @@ Or use `classify(text)` inside your code.
 
 You can run a simple web interface using:
 
-```bash
-streamlit run app/app.py
-```
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://client-intent-classifier-qyzbj2jw2rsbn5hzsh34eb.streamlit.app/)
 
-Enter a message and get the predicted intent category!
 
 ---
 
